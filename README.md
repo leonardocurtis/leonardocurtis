@@ -65,6 +65,6 @@ I believe the best engineers are perpetually curious. That restlessness is what 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocurtis&repo=topic-hub-api&theme=react&show_owner=true&description_lines_count=3&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocurtis&repo=literary-catalog-project&theme=react&show_owner=true&description_lines_count=3&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocurtis&repo=topic-hub-api&theme=react&show_owner=true&description_lines_count=3&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardocurtis&repo=literary-catalog-project&theme=react&show_owner=true&description_lines_count=3&hide_border=true" />
 </div>
