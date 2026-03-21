@@ -2,8 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/leonardocurtis/leonardocurtis/main/dino.gif"/>
 
-# Hey there! I'm Leonardo Curtis
-### Biomedical Informatics · Backend Developer
+<h1 style="text-align: center;">Hey there! I'm Leonardo Curtis</h1>
+
+<h3 style="text-align: center;"> Biomedical Informatics · Backend Developer</h3>
 
 <em>"True knowledge is born from restlessness in the constant pursuit of the new, we shape the future we want to inhabit."</em>
 
@@ -17,7 +18,7 @@
 
 ## 👤 About Me
 
-I'm a **Biomedical Informatics** graduate from UFCSPA with a passion for building elegant software and understanding the systems that power intelligent machines. My path has taken me from technical support to full-stack development, and now deeper into the world of **machine learning, deep learning, and computer vision**.
+I'm a **Biomedical Informatics** graduate from Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA) specializing in backend development and system design, with experience in Java, C#, and Go. My background ranges from technical support to full-stack development, and I have a growing interest in machine learning and intelligent systems.
 
 I believe the best engineers are perpetually curious. That restlessness is what drives me.
 
@@ -35,19 +36,19 @@ I believe the best engineers are perpetually curious. That restlessness is what 
 
 <h3 style="text-align: left;">Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,angular,html,css,tailwind&theme=light" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,angular,html,css,tailwind" />
 
 <h3 style="text-align: left;">Backend & Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,mysql,postgresql,golang,mongodb&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,golang,mongodb" />
 
 <h3 style="text-align: left;">AI / Machine Learning</h3>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,python,opencv&theme=light" />
+<img src="https://skillicons.dev/icons?i=tensorflow,python,opencv" />
 
 <h3 style="text-align: left;">DevOps & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,postman,figma,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,postman,figma,vscode" />
 
 </div>
 
