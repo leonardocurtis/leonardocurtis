@@ -18,7 +18,10 @@
 
 ## 👤 About Me
 
-I'm a **Biomedical Informatics** graduate from Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA) specializing in backend development and system design, with experience in Java, C#, and Go. My background ranges from technical support to full-stack development, and I have a growing interest in machine learning and intelligent systems.
+<div align="left">
+  <p align="justify">
+    I'm a <strong>Biomedical Informatics</strong> graduate from Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA) specializing in backend development and system design, with experience in Java, C#, and Go. My background ranges from technical support to full-stack development, and I have a growing interest in machine learning and intelligent systems.
+  </p>
 
 I believe the best engineers are perpetually curious. That restlessness is what drives me.
 
@@ -27,6 +30,8 @@ I believe the best engineers are perpetually curious. That restlessness is what 
 - 🤖 Currently diving deep into **CNNs, Deep Learning & Computer Vision**  
 - 🔐 Enthusiast of **Cybersecurity**  
 - 🌎 Based in Brazil · Open to remote opportunities
+  
+</div>
 
 ---
 
